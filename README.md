@@ -1,1 +1,1 @@
-# Our codes will be publicly released at [[here]](https://github.com/mdcnn/JMENet)
+# Our JMENet codes  will be publicly released after publication.
